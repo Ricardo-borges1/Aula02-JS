@@ -21,7 +21,7 @@ function mudarForma(){
 }
 
 function mudarForma2(){
-    forma3.classList.toggle('triangulo')
+    forma3.classList.toggle('mexer')
 }
 
 function rotacao(){
